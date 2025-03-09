@@ -1,2 +1,5 @@
-###
-GET localhost:8080/health
+### forward
+GET localhost:8080/test-filter-before-forward
+
+### redirect
+GET localhost:8080/test-filter-before-redirect
